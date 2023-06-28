@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "D:/google_maps_demo/windows/flutter",
+    "cSpell.enableFiletypes": [
+        "cmake"
+    ],
+    "C_Cpp.default.configurationProvider": "go2sh.cmake-integration"
+}
